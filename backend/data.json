@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "cuando-el-codigo-venia-impreso-en-papel",
+      "title": "Cuando el código venía impreso en papel: la era dorada de teclear BASIC",
+      "excerpt": "Copiar cientos de líneas de BASIC desde una revista era el GitHub de los 80.",
+      "content": "Antes de Git o Stack Overflow, los programas se copiaban línea por línea desde revistas. Un solo error producía ?SYNTAX ERROR IN LINE 420. Luego los BBS permitieron compartirlos por módem.",
+      "category": "BASIC",
+      "author": "Archivero_Digital",
+      "read_minutes": 8,
+      "likes": 0,
+      "created_at": "2026-10-09T23:23:39.027Z"
+    },
+    {
+      "id": 2,
+      "slug": "el-reino-de-geocities",
+      "title": "El reino de GeoCities: fondos estrellados, marquesinas y GIFs en llamas",
+      "excerpt": "Hacer tu página en los 90 era pura expresión artesanal.",
+      "content": "Con el Bloc de Notas y etiquetas como <marquee> y <blink>, cualquiera llenaba su página de GIFs animados, contadores de visitas y banners de intercambio.",
+      "category": "GeoCities",
+      "author": "Archivero_Digital",
+      "read_minutes": 6,
+      "likes": 0,
+      "created_at": "2026-10-09T23:23:39.030Z"
+    },
+    {
+      "id": 3,
+      "slug": "la-sinfonia-del-modem",
+      "title": "El apretón de manos a 56kbps: la sinfonía del módem Dial-up",
+      "excerpt": "Ese sonido significaba que cruzabas el umbral hacia el mundo.",
+      "content": "El módem ocupaba la línea fija de casa; levantar el auricular cortaba una descarga que llevaba 3 horas al 85%.",
+      "category": "Dial-Up",
+      "author": "Archivero_Digital",
+      "read_minutes": 5,
+      "likes": 1,
+      "created_at": "2026-10-09T23:23:39.030Z"
+    }
+  ],
+  "comments": [],
+  "guestbook": [],
+  "visits": 4,
+  "nextId": 4
+}
